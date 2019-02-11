@@ -1,0 +1,10 @@
+{
+    "realm": "pbh",
+    "auth-server-url": "http://10.6.1.84:8080/auth",
+    "ssl-required": "external",
+    "resource": "pbh.frontendmicroserv",
+    "public-client": true,
+    "verify-token-audience": true,
+    "use-resource-role-mappings": true,
+    "confidential-port": 0
+}
